@@ -14,7 +14,7 @@ export const PRODUCTS: Product[] = [
     tastingNotes: 'Crisp apple & citrus with creamy brioche; balanced, long refreshing finish.',
     awards: ['Gold & Best in Class (CSWWC 2023)', 'CSWWC 2016 Gold'],
     description: 'Crafted from a classic Champagne blend and aged on lees for at least 1–2 years, this is Plumpton’s flagship sparkling. Hand-picked grapes, whole-bunch pressed; base wines fermented separately in stainless steel.',
-    image: 'https://images.unsplash.com/photo-1594145070972-e5f8d169c735?auto=format&fit=crop&q=80&w=800', // Mock bottle
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/BrutClassicNV_Render_1000x.png',
   },
   {
     id: 'brut-rose-nv',
@@ -26,7 +26,7 @@ export const PRODUCTS: Product[] = [
     tastingNotes: 'White peach & strawberry; dry, crisp acidity with delicate persistent mousse.',
     awards: ['Bronze (WineGB 2024)', 'CSWWC 2018 Gold'],
     description: 'Described as a “superb marriage of freshness and finesse”, this dry rosé has crisp acidity and a fine mousse. Flavor profile: white peach and strawberry notes, with subtle brioche creaminess.',
-    image: 'https://images.unsplash.com/photo-1559563362-c667ba5f5480?auto=format&fit=crop&q=80&w=800',
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/BrutRoseNV_Render_1000x.png',
   },
   {
     id: 'brut-reserve-2017',
@@ -39,7 +39,7 @@ export const PRODUCTS: Product[] = [
     awards: ['Silver (WineGB 2022)'],
     pairing: 'Nuts, antipasti, desserts',
     description: 'A special cuvée blending unusual grapes for sparkling, showcasing Plumpton’s experimental edge. Aged ~5 years on lees. Notably, the dosage uses a local brandy.',
-    image: 'https://images.unsplash.com/photo-1621644085448-c3093952f01f?auto=format&fit=crop&q=80&w=800',
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/BrutReserve_Render_1000x.png',
   },
   {
     id: 'charmat-nv',
@@ -50,7 +50,7 @@ export const PRODUCTS: Product[] = [
     grapeComposition: 'Reichensteiner, Chardonnay, Pinot Noir, Ortega',
     tastingNotes: 'Fresh and fruity: vibrant aromas of apple & citrus blossom; lively effervescence.',
     description: 'A new product aimed at a fresher, fruit-driven style of sparkling wine, fermented in pressurized tanks (like Prosecco). An easy-drinking sparkling wine.',
-    image: 'https://images.unsplash.com/photo-1598155523122-38423bd4d6bc?auto=format&fit=crop&q=80&w=800',
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/Charmat_Render_1000x.png',
     isNew: true,
   },
   {
@@ -63,7 +63,7 @@ export const PRODUCTS: Product[] = [
     tastingNotes: 'Aromatic & elegant: notes of dried apricots, honeysuckle, lime; creamy finish.',
     pairing: 'Grilled chicken, poached fish, salads',
     description: 'A special "Reserve" selection. Only 324 bottles produced. Fermented with an advanced technique by Vinalchemy to lengthen the finish.',
-    image: 'https://images.unsplash.com/photo-1585553616435-2dc0a54e271d?auto=format&fit=crop&q=80&w=800',
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/Bacchus_Render_1000x.png',
     isNew: true,
   },
   {
@@ -76,7 +76,7 @@ export const PRODUCTS: Product[] = [
     tastingNotes: 'Bright & floral: elderflower, grapefruit, lime peel; well-rounded and vibrant.',
     pairing: 'Seafood canapés, Asian dishes',
     description: 'A blend of varieties suited to cooler climates from the Rock Lodge Vineyard. Extensive blending trials conducted by students and the winemaking team.',
-    image: 'https://images.unsplash.com/photo-1572569693059-7a3297a78a62?auto=format&fit=crop&q=80&w=800',
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/RockLodgeWhite_Render_1000x.png',
   },
   {
     id: 'rock-lodge-rose-2024',
@@ -88,7 +88,7 @@ export const PRODUCTS: Product[] = [
     tastingNotes: 'Summer fruits: uplifting strawberry, peach, gooseberry aromas; fresh and balanced.',
     pairing: 'Seafood, salads',
     description: 'A field blend rosé from Rock Lodge Vineyard. Grapes are harvested by students each year. Perfect on its own in warm weather.',
-    image: 'https://images.unsplash.com/photo-1559563362-c667ba5f5480?auto=format&fit=crop&q=80&w=800',
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/RockLodgeRose_Render_1000x.png',
   },
   {
     id: 'rock-lodge-red-2023',
@@ -100,7 +100,7 @@ export const PRODUCTS: Product[] = [
     tastingNotes: 'Light & juicy: aromas of plum, cranberry, dark fruits; soft tannins.',
     pairing: 'Tomato-based dishes, English cheddar',
     description: 'A blend highlighting cooler-climate red varietals. Chillable red for summer. The style is reminiscent of a very light Pinot or a German red.',
-    image: 'https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&q=80&w=800',
+    image: 'https://store.plumpton.ac.uk/cdn/shop/files/RockLodgeRed_Render_1000x.png',
   }
 ];
 
